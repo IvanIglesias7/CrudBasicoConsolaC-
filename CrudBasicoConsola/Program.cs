@@ -13,10 +13,10 @@ internal class Program
         c.MostrarTodo(context);
 
         //Inserto alumno
-        //c.InsertarAlumno(context, "Manuel", "Ramirez");
+        //c.InsertarAlumno(context, "Xavi", "Bernat");
 
         //Inserto profesor
-        //c.InsertarProfesor(context, "Gerardo", "Sanchez");
+        //c.InsertarProfesor(context, "David", "Suarez");
 
         //Elimina un alumno
         //c.EliminarAlumno(context);
